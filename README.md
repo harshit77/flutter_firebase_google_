@@ -6,7 +6,7 @@ A new Flutter project with firebase as Oauth authentication to test rebase versi
 
 ## Getting Started
 
-This project is a starting point for a Flutter application version 1.0.0
+This project is a starting point for a Flutter whatsapp application version 1.0.0
 
 A few resources to get you started if this is your first Flutter project:
 
