@@ -1,7 +1,7 @@
 # firebaseauthwithgooglesignin
 
 
-A new Flutter project with firebase as Oauth authentication to test rebase on master
+A new Flutter project with firebase as Oauth authentication to test rebase next level
 
 ## Getting Started
 
